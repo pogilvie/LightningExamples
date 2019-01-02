@@ -24,6 +24,11 @@
         <field>Master__c.Sum__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Master__c.Value__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Detail__c-Detail Layout</layout>
     </layoutAssignments>
