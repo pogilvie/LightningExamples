@@ -54,11 +54,12 @@
     <enableStreamingApi>true</enableStreamingApi>
     <label>Detail</label>
     <nameField>
+        <displayFormat>D-{0}</displayFormat>
         <label>Detail Name</label>
-        <type>Text</type>
+        <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Details</pluralLabel>
     <searchLayouts/>
-    <sharingModel>ReadWrite</sharingModel>
+    <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
