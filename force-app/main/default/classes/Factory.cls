@@ -21,6 +21,26 @@ public with sharing class Factory {
         return d.Id;
     }
 
+    public static Id createAccount(String name) {
+  
+        Account a = new Account(
+            Name = name
+        );
+        insert a;
+
+        return a.Id;
+    }
+
+    public static Id createContact(String firstName, String lastName) {
+        Contact c = new Contact(
+            FirstName = firstName,
+            LastName = lastName
+        );
+        insert c;
+
+        return c.Id;
+    }
+
     public static void setup() {
 
         Id masterId = createMaster('m');
@@ -29,11 +49,21 @@ public with sharing class Factory {
             createDetail(masterId, i);
         }
 
+        /* create three Accounts and an unlinked Contact
+        */
+        createAccount('a');
+        createAccount('b');
+        createAccount('c');
+
+        createContact('John', 'Doe');
+
     }
 
     public static void cleanup() {
         delete [select Id from Detail__c];
         delete [select Id from Master__c];
+        delete [select Id from Contact];
+        delete [select Id from Account];
     }
 
 }
