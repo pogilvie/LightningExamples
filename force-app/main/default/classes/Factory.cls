@@ -51,9 +51,9 @@ public with sharing class Factory {
 
         /* create three Accounts and an unlinked Contact
         */
-        createAccount('a');
-        createAccount('b');
-        createAccount('c');
+        createAccount('apple');
+        createAccount('pear');
+        createAccount('orange');
 
         createContact('John', 'Doe');
 

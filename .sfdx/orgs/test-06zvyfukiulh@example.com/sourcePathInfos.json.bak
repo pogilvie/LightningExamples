@@ -32,14 +32,14 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1546447594503,
             "changeTime": 1546447594503,
-            "contentHash": "aa720c301977cb3a7536c2d593d98fd827fadb19"
+            "contentHash": "aa720c301977cb3a7536c2d593d98fd827fadb19",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -47,10 +47,10 @@
         {
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1546390202832,
-            "changeTime": 1546390202832,
-            "contentHash": "cee656e4e4fb4012f85e12695536c23a5e0e62c3",
+            "size": 128,
+            "modifiedTime": 1546452071766,
+            "changeTime": 1546452071766,
+            "contentHash": "e8c214752fce38259eb4420c157eab6059312831",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -125,14 +125,14 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/layouts/Master__c-Master Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/layouts/Master__c-Master Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2482,
             "modifiedTime": 1546447594464,
             "changeTime": 1546447594464,
-            "contentHash": "25c4d5e92e0273e245ae3da846f0953df1c721ff"
+            "contentHash": "25c4d5e92e0273e245ae3da846f0953df1c721ff",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -164,14 +164,14 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18583,
             "modifiedTime": 1546447594498,
             "changeTime": 1546447594498,
-            "contentHash": "bd9408de1245b034dcecdeb27dd030d8b507cd53"
+            "contentHash": "bd9408de1245b034dcecdeb27dd030d8b507cd53",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -205,10 +205,10 @@
         {
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects",
             "isDirectory": true,
-            "size": 128,
-            "modifiedTime": 1546384039407,
-            "changeTime": 1546384039407,
-            "contentHash": "bd2399a01300032346bb6a2a8c58f9d928350643",
+            "size": 192,
+            "modifiedTime": 1546451435272,
+            "changeTime": 1546451435272,
+            "contentHash": "890204a0d2d5ec91e37bb460720cfc9cc6d9801d",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -309,10 +309,10 @@
         {
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Factory.cls",
             "isDirectory": false,
-            "size": 739,
-            "modifiedTime": 1546400702519,
-            "changeTime": 1546400702519,
-            "contentHash": "d811ecf7c417c9136c08793695529597d7558d49",
+            "size": 1423,
+            "modifiedTime": 1546454098676,
+            "changeTime": 1546454098676,
+            "contentHash": "4602f884a8ec412b5c10ce273100ef75bbfab2e2",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -606,27 +606,235 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/settings/Security.settings-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/settings/Security.settings-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2635,
             "modifiedTime": 1546447594503,
             "changeTime": 1546447594503,
-            "contentHash": "10c8fb9032c41ce4dec4db9ee053554b398e1a8e"
+            "contentHash": "10c8fb9032c41ce4dec4db9ee053554b398e1a8e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/settings",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/settings",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1546447594503,
             "changeTime": 1546447594503,
-            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327"
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 419,
+            "modifiedTime": 1546451306267,
+            "changeTime": 1546451306267,
+            "contentHash": "c78faa9387a62532b7f0c8bc5bffda9b80335440",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/listViews",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546451306267,
+            "changeTime": 1546451306267,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546451306266,
+            "changeTime": 1546451306266,
+            "contentHash": "1003ed7ace0a22575202c755ad5f988148ca2df5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Account/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Account/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1546451435273,
+            "changeTime": 1546451435273,
+            "contentHash": "d096d040f1bc1149a08ecd0006f5487ab6bab0ef",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Account/listViews",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Account/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546451435273,
+            "changeTime": 1546451435273,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546451435272,
+            "changeTime": 1546451435272,
+            "contentHash": "1003ed7ace0a22575202c755ad5f988148ca2df5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1546452071769,
+            "changeTime": 1546452071769,
+            "contentHash": "2dacb48809d25f0cc312300d49e14059d605b4ce",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.auradoc",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1546452071769,
+            "changeTime": 1546452071769,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 808,
+            "modifiedTime": 1546454787016,
+            "changeTime": 1546454787016,
+            "contentHash": "bd7f8c7a6b432723331c6cd17fa90f616eb223d7"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1546452071767,
+            "changeTime": 1546452071767,
+            "contentHash": "2a80fb0b920ef0d8576d9b0927247fc2c88bc200",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.css",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1546452071768,
+            "changeTime": 1546452071768,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.design",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1546452071769,
+            "changeTime": 1546452071769,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.svg",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1546452071769,
+            "changeTime": 1546452071769,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditFormController.js",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditFormController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1546452071768,
+            "changeTime": 1546452071768,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditFormHelper.js",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditFormHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1546452071768,
+            "changeTime": 1546452071768,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditFormRenderer.js",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditFormRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1546452071768,
+            "changeTime": 1546452071768,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
