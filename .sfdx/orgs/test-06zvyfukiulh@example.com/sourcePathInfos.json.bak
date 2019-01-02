@@ -47,14 +47,13 @@
         {
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1546379820374,
-            "changeTime": 1546379820374,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 96,
+            "modifiedTime": 1546390202832,
+            "changeTime": 1546390202832,
+            "contentHash": "cee656e4e4fb4012f85e12695536c23a5e0e62c3",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -347,14 +346,14 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Requirements.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Requirements.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 373,
             "modifiedTime": 1546387973295,
             "changeTime": 1546387973295,
-            "contentHash": "f08a4874f9783dfc2e3315f8a078371a00e0d641"
+            "contentHash": "f08a4874f9783dfc2e3315f8a078371a00e0d641",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -367,6 +366,136 @@
             "changeTime": 1546387168654,
             "contentHash": "46da764fdda0093a90b4b419b26a1e93aa25affa",
             "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1546390202835,
+            "changeTime": 1546390202835,
+            "contentHash": "3d14d3007312dbf0885e03d11eb067ff9996c042",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.auradoc",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1546390202835,
+            "changeTime": 1546390202835,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 783,
+            "modifiedTime": 1546400465327,
+            "changeTime": 1546400465327,
+            "contentHash": "e33a21f79d6bbf3d047c3092268e9ce89078d3a2"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 238,
+            "modifiedTime": 1546390202833,
+            "changeTime": 1546390202833,
+            "contentHash": "b0b518d6e8e23f33cebbea0ca508527d8029a1ce",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.css",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1546390202834,
+            "changeTime": 1546390202834,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.design",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1546390202836,
+            "changeTime": 1546390202836,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.svg",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1546390202835,
+            "changeTime": 1546390202835,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/RollupController.js",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/RollupController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1546390202833,
+            "changeTime": 1546390202833,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/RollupHelper.js",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/RollupHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1546390202834,
+            "changeTime": 1546390202834,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/RollupRenderer.js",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/RollupRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1546390202834,
+            "changeTime": 1546390202834,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
             "state": "u"
         }
     ]

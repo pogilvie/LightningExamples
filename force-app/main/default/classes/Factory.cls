@@ -31,4 +31,9 @@ public with sharing class Factory {
 
     }
 
+    public static void cleanup() {
+        delete [select Id from Detail__c];
+        delete [select Id from Master__c];
+    }
+
 }

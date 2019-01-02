@@ -1,0 +1,33 @@
+<aura:component
+    implements="flexipage:availableForRecordHome,force:hasRecordId"
+>
+
+    <aura:attribute
+        name="master"
+        type="Object"
+    />
+
+    <aura:attribute
+        name="error"
+        type="String"
+    />
+
+    <force:recordData aura:id="forceRecordCmp"
+            recordId="{!v.recordId}"
+            fields="['Id', 'Name', 'Count__c', 'Sum__c']"
+            targetFields="{!v.master}"
+            targetError="{!v.error}" 
+    />
+
+    <lightning:card>
+        <p class="slds-p-horizontal_small">
+            Card Body (custom component)
+        </p>
+        <aura:if isTrue="{!not(empty(v.recordError))}">
+            <div class="recordError">
+                {!v.recordError}
+            </div>
+        </aura:if>
+    </lightning:card>
+
+</aura:component>	
