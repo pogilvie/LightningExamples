@@ -307,14 +307,14 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Factory.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Factory.cls",
             "isDirectory": false,
-            "size": 611,
-            "modifiedTime": 1546387308230,
-            "changeTime": 1546387308230,
-            "contentHash": "a6ec8686212d1a3f13c0a7a49f7ea3b768b5df11",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 739,
+            "modifiedTime": 1546400702519,
+            "changeTime": 1546400702519,
+            "contentHash": "d811ecf7c417c9136c08793695529597d7558d49"
         }
     ],
     [
@@ -398,14 +398,14 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 783,
             "modifiedTime": 1546400465327,
             "changeTime": 1546400465327,
-            "contentHash": "e33a21f79d6bbf3d047c3092268e9ce89078d3a2"
+            "contentHash": "e33a21f79d6bbf3d047c3092268e9ce89078d3a2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
