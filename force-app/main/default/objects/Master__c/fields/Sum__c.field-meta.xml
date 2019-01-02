@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sum__c</fullName>
+    <description>Sum of the value of all detail Records</description>
+    <externalId>false</externalId>
+    <label>Sum</label>
+    <summarizedField>Detail__c.Value__c</summarizedField>
+    <summaryForeignKey>Detail__c.Master__c</summaryForeignKey>
+    <summaryOperation>sum</summaryOperation>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>
