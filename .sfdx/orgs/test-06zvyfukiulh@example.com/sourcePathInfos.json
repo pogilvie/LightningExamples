@@ -32,14 +32,14 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 320,
             "modifiedTime": 1546402246539,
             "changeTime": 1546402246539,
-            "contentHash": "79c06446f93f42ea16a538e1f9352afa1a799001"
+            "contentHash": "79c06446f93f42ea16a538e1f9352afa1a799001",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -73,14 +73,14 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/Master__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/Master__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2338,
             "modifiedTime": 1546402246531,
             "changeTime": 1546402246531,
-            "contentHash": "967a5d0e98a1c1a5c9bfff396c1baeac023c2302"
+            "contentHash": "967a5d0e98a1c1a5c9bfff396c1baeac023c2302",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -125,14 +125,14 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/layouts/Master__c-Master Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/layouts/Master__c-Master Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2347,
             "modifiedTime": 1546402246536,
             "changeTime": 1546402246536,
-            "contentHash": "2eb2e2ff8db605c470dfdf2300bad33da5dc9d0e"
+            "contentHash": "2eb2e2ff8db605c470dfdf2300bad33da5dc9d0e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -164,14 +164,14 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18426,
             "modifiedTime": 1546402246562,
             "changeTime": 1546402246562,
-            "contentHash": "12b29ee069253de63d35f4f3de1ea488e2d46f04"
+            "contentHash": "12b29ee069253de63d35f4f3de1ea488e2d46f04",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -190,14 +190,14 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1546402246532,
             "changeTime": 1546402246532,
-            "contentHash": "899a1f179210663ccbf6ffb4c1a56c08b4f1baa0"
+            "contentHash": "899a1f179210663ccbf6ffb4c1a56c08b4f1baa0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -400,10 +400,10 @@
         {
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.cmp",
             "isDirectory": false,
-            "size": 829,
-            "modifiedTime": 1546401675532,
-            "changeTime": 1546401675532,
-            "contentHash": "bbfec6099b7eedb274f83d9aad0af717d987aa7f",
+            "size": 1014,
+            "modifiedTime": 1546447176902,
+            "changeTime": 1546447176902,
+            "contentHash": "b64314820d1894a60405399e29acce1baa4a56db",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -463,14 +463,14 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/RollupController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/RollupController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1546390202833,
-            "changeTime": 1546390202833,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 161,
+            "modifiedTime": 1546447267657,
+            "changeTime": 1546447267657,
+            "contentHash": "17c6fa82627a43a4fc97012d4a62b8a091a048b6"
         }
     ],
     [
@@ -502,105 +502,105 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/fields/Count__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/fields/Count__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 455,
             "modifiedTime": 1546402246532,
             "changeTime": 1546402246532,
-            "contentHash": "2db75f85ff852c5f4f18ddbc767429cc4e0c2735"
+            "contentHash": "2db75f85ff852c5f4f18ddbc767429cc4e0c2735",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/fields/Sum__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/fields/Sum__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 508,
             "modifiedTime": 1546402246532,
             "changeTime": 1546402246532,
-            "contentHash": "5992218038518ed9c7b97826841fa0d54ca5571c"
+            "contentHash": "5992218038518ed9c7b97826841fa0d54ca5571c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/flexipages/Master_Detail_UtilityBar.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/flexipages/Master_Detail_UtilityBar.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 508,
             "modifiedTime": 1546402246537,
             "changeTime": 1546402246537,
-            "contentHash": "0b4a421225a7c4c8cb61071ec838d1da6f976987"
+            "contentHash": "0b4a421225a7c4c8cb61071ec838d1da6f976987",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/flexipages/Master_Record_Page.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/flexipages/Master_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
+            "size": 1421,
+            "modifiedTime": 1546444930945,
+            "changeTime": 1546444930945,
+            "contentHash": "f048656915b8c18ae8239ccc89ba5e58b5f4e242",
             "isMetadataFile": true,
-            "size": 3187,
-            "modifiedTime": 1546402246538,
-            "changeTime": 1546402246538,
-            "contentHash": "986dd400b6583f8918e9fe07ae254fd964dd970a"
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/applications/MasterDetail.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/applications/MasterDetail.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 609,
             "modifiedTime": 1546402246540,
             "changeTime": 1546402246540,
-            "contentHash": "443caec492f03fe0d027d2837f16668531dfe566"
+            "contentHash": "443caec492f03fe0d027d2837f16668531dfe566",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1546402246532,
             "changeTime": 1546402246532,
-            "contentHash": "c77c47a896d997f008f7e293da303a97de39df82"
+            "contentHash": "c77c47a896d997f008f7e293da303a97de39df82",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/flexipages",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1546402246538,
             "changeTime": 1546402246538,
-            "contentHash": "7246190c1fba27ef3346d2653f9e5c121e6cfff9"
+            "contentHash": "7246190c1fba27ef3346d2653f9e5c121e6cfff9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/applications",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/applications",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1546402246540,
             "changeTime": 1546402246540,
-            "contentHash": "d567cf0378803724d5f51e02e95d864555507025"
+            "contentHash": "d567cf0378803724d5f51e02e95d864555507025",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]

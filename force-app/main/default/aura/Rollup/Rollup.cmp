@@ -14,14 +14,18 @@
 
     <force:recordData aura:id="forceRecordCmp"
             recordId="{!v.recordId}"
-            fields="['Id', 'Name', 'Count__c', 'Sum__c']"
+            fields="['Id', 'Name', 'Count__c', 'Sum__c', 'Value__c']"
             targetFields="{!v.master}"
-            targetError="{!v.error}" 
+            targetError="{!v.error}"
+            recordUpdated="{!c.handleRecordUpdated}"
     />
 
     <lightning:card>
         <p class="slds-p-horizontal_small">
-            Name: {!v.master.Name} Count: {!v.master.Count__c} Sum: {!v.master.Sum__c}
+            RecordId: {!v.recordId}
+        </p>
+        <p class="slds-p-horizontal_small">
+            Name: {!v.master.Name} Count: {!v.master.Count__c} Sum: {!v.master.Sum__c} Value: {!v.master.Value__c}
         </p>
         <aura:if isTrue="{!not(empty(v.recordError))}">
             <div class="recordError">
