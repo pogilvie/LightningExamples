@@ -20,5 +20,6 @@
 ## Demonstration of the Builder paradigm for constructing test objects.
 - http://www.natpryce.com/articles/000714.html
 - Class AccountBuilder.cls
+- Class ContactBuilder.cls
 - Requirements.builder (sfdx force:apex:test:run -t Requirements.builder -w 10 -u lex)
 
