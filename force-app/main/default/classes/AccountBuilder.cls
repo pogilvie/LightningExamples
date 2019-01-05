@@ -1,6 +1,6 @@
 public with sharing class AccountBuilder {
     
-    Id id;
+    Public Id id;
     String name = 'ABC';
     String accountNumber = '123';
     String site = 'https://www.abc.com';

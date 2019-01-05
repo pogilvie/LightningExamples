@@ -296,10 +296,10 @@
         {
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 256,
-            "modifiedTime": 1546653690099,
-            "changeTime": 1546653690099,
-            "contentHash": "595cbb6773c31d67b0aa7dff415c56985f85e1ae",
+            "size": 320,
+            "modifiedTime": 1546698107738,
+            "changeTime": 1546698107738,
+            "contentHash": "39233f3789ced4e123adfc7f326ffb3a2b8ded9a",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -348,10 +348,10 @@
         {
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Requirements.cls",
             "isDirectory": false,
-            "size": 688,
-            "modifiedTime": 1546657105689,
-            "changeTime": 1546657105689,
-            "contentHash": "d3d7604fb28269cd78ccfdae725baf718e1a0df6",
+            "size": 1238,
+            "modifiedTime": 1546700167121,
+            "changeTime": 1546700167121,
+            "contentHash": "7dc4dc3f784dd77be14ba7e5006ce0b7c1197bd8",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1217,14 +1217,14 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/AccountBuilder.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/AccountBuilder.cls",
             "isDirectory": false,
+            "size": 1568,
+            "modifiedTime": 1546699882039,
+            "changeTime": 1546699882039,
+            "contentHash": "b74233737f82d2dd01aab8dddb469f517294c39c",
             "isMetadataFile": false,
-            "size": 1561,
-            "modifiedTime": 1546657215249,
-            "changeTime": 1546657215249,
-            "contentHash": "ba8db8c7c9f9275d2a4bc0329ff8ba21986d3a2d"
+            "state": "u"
         }
     ],
     [
@@ -1236,6 +1236,32 @@
             "modifiedTime": 1546653690099,
             "changeTime": 1546653690099,
             "contentHash": "003fdfb84ab75df5a91bc08315754a4c3c3965c5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/ContactBuilder.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/ContactBuilder.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1032,
+            "modifiedTime": 1546700265460,
+            "changeTime": 1546700265460,
+            "contentHash": "8b93347a7d8afdabe96e960c1c77fd7900ba4fbc"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/ContactBuilder.cls-meta.xml",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/ContactBuilder.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1546698107738,
+            "changeTime": 1546698107738,
+            "contentHash": "2b4c48e1a6b547c62390519db1c6735c40a19176",
             "isMetadataFile": true,
             "state": "u"
         }

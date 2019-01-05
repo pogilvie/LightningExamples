@@ -27,5 +27,21 @@
         System.assertEquals('xyz', a.Name);
         System.assertEquals('new description', a.Description);
 
-    }
+
+        Contact c = (new ContactBuilder())
+            .withFirstName('John')
+            .withLastName('Doe')
+            .withAccountId(new AccountBuilder()
+                .withName('Big Corp')
+                .withDescription('Big Corp Description')
+                .build().id)
+            .build()
+            .query();
+
+        Account bigCorp = [select Name, Description from Account where Id = :c.AccountId];
+
+        System.assertEquals('Big Corp', bigCorp.Name);
+        System.assertEquals('Big Corp Description', bigCorp.Description);
 }
+    }
+
