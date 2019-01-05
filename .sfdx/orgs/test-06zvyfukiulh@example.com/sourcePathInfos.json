@@ -164,14 +164,14 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18706,
-            "modifiedTime": 1546653153273,
+            "modifiedTime": 1546653233547,
             "changeTime": 1546653153273,
-            "contentHash": "ae0768cbaf38ec05176ad098b20dc20b7cfce1dd"
+            "contentHash": "ae0768cbaf38ec05176ad098b20dc20b7cfce1dd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -284,7 +284,7 @@
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/profiles",
             "isDirectory": true,
             "size": 128,
-            "modifiedTime": 1546384039435,
+            "modifiedTime": 1546653233547,
             "changeTime": 1546384039435,
             "contentHash": "6de539e406207a3affb7ad6235c1586239769bb7",
             "isMetadataFile": false,
@@ -296,10 +296,10 @@
         {
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 192,
-            "modifiedTime": 1546460999711,
-            "changeTime": 1546387168654,
-            "contentHash": "93d229e3894dcc47664bd5faf3538e2c7b8afd0e",
+            "size": 256,
+            "modifiedTime": 1546653690099,
+            "changeTime": 1546653690099,
+            "contentHash": "595cbb6773c31d67b0aa7dff415c56985f85e1ae",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -310,7 +310,7 @@
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Factory.cls",
             "isDirectory": false,
             "size": 1423,
-            "modifiedTime": 1546460999711,
+            "modifiedTime": 1546655699842,
             "changeTime": 1546454098676,
             "contentHash": "4602f884a8ec412b5c10ce273100ef75bbfab2e2",
             "isMetadataFile": false,
@@ -348,10 +348,10 @@
         {
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Requirements.cls",
             "isDirectory": false,
-            "size": 373,
-            "modifiedTime": 1546387973295,
-            "changeTime": 1546387973295,
-            "contentHash": "f08a4874f9783dfc2e3315f8a078371a00e0d641",
+            "size": 688,
+            "modifiedTime": 1546657105689,
+            "changeTime": 1546657105689,
+            "contentHash": "d3d7604fb28269cd78ccfdae725baf718e1a0df6",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1211,6 +1211,32 @@
             "changeTime": 1546461048734,
             "contentHash": "666979ba598bff9bd44049d28214d5675c03d5f7",
             "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/AccountBuilder.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/AccountBuilder.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1561,
+            "modifiedTime": 1546657215249,
+            "changeTime": 1546657215249,
+            "contentHash": "ba8db8c7c9f9275d2a4bc0329ff8ba21986d3a2d"
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/AccountBuilder.cls-meta.xml",
+        {
+            "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/AccountBuilder.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1546653690099,
+            "changeTime": 1546653690099,
+            "contentHash": "003fdfb84ab75df5a91bc08315754a4c3c3965c5",
+            "isMetadataFile": true,
             "state": "u"
         }
     ]

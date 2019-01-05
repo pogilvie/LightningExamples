@@ -17,3 +17,8 @@
 - RecordEditForm.cmp
 - <lightning:inputField fieldName="AccountId" /> to implement a lookup field
 
+## Demonstration of the Builder paradigm for contructing test objects.
+- http://www.natpryce.com/articles/000714.html
+- Class AccountBuilder.cls
+- Requirements.builder (sfdx force:apex:test:run -t Requirements.builder -w 10 -u lex)
+

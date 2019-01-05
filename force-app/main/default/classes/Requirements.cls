@@ -16,4 +16,16 @@
 
     }
 
+    @IsTest static void builder() {
+
+        Account a = (new AccountBuilder())
+            .withName('xyz')
+            .withDescription('new description')
+            .build()
+            .query();
+
+        System.assertEquals('xyz', a.Name);
+        System.assertEquals('new description', a.Description);
+
+    }
 }
