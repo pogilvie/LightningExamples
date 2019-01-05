@@ -3,7 +3,7 @@
     <applicationVisibilities>
         <application>MasterDetail</application>
         <default>false</default>
-        <visible>false</visible>
+        <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
         <apexClass>Factory</apexClass>
@@ -55,6 +55,10 @@
     </objectPermissions>
     <tabVisibilities>
         <tab>Master__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>standard-Contact</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>
