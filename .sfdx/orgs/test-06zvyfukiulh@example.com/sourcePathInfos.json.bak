@@ -350,10 +350,10 @@
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Requirements.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1238,
-            "modifiedTime": 1546700167121,
-            "changeTime": 1546700167121,
-            "contentHash": "7dc4dc3f784dd77be14ba7e5006ce0b7c1197bd8"
+            "size": 1551,
+            "modifiedTime": 1546702914171,
+            "changeTime": 1546702914171,
+            "contentHash": "49e95159e2fb100c94579d834fdb0bfa05a7f5f5"
         }
     ],
     [
@@ -1245,10 +1245,10 @@
         {
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/ContactBuilder.cls",
             "isDirectory": false,
-            "size": 970,
-            "modifiedTime": 1546699888870,
-            "changeTime": 1546699888870,
-            "contentHash": "230ebb0439749a9bec7cdddcf46c287c6453c09e",
+            "size": 1257,
+            "modifiedTime": 1546702468879,
+            "changeTime": 1546702468879,
+            "contentHash": "f8e5ec424a0791dac9ee25685564174247a659a1",
             "isMetadataFile": false,
             "state": "u"
         }

@@ -1,10 +1,16 @@
 public with sharing class ContactBuilder {
 
-    Public Id id;
-    String name;
-    String firstName;
-    String lastName;
-    Id AccountId;
+    Public Id id;                   // system generated
+    String name;                    // system generated
+    String firstName = 'John';
+    String lastName = 'Doe';
+    Public Id accountId;                   // see constructor
+
+    public ContactBuilder() {
+
+        accountId = (new AccountBuilder()).build().id;
+
+    }
 
     public ContactBuilder withFirstName(String firstName) {
         this.firstName = firstName;

@@ -29,8 +29,8 @@
 
 
         Contact c = (new ContactBuilder())
-            .withFirstName('John')
-            .withLastName('Doe')
+            .withFirstName('Jane')
+            .withLastName('Smith')
             .withAccountId(new AccountBuilder()
                 .withName('Big Corp')
                 .withDescription('Big Corp Description')
@@ -42,6 +42,15 @@
 
         System.assertEquals('Big Corp', bigCorp.Name);
         System.assertEquals('Big Corp Description', bigCorp.Description);
-}
+
+        Account defaultAccount = [
+            select Name, Description
+            from Account
+            where Id = :((new ContactBuilder()).build().AccountId)
+        ];
+
+        System.assertEquals('ABC', defaultAccount.Name);
+        System.assertEquals('boilerplace description', defaultAccount.Description);
     }
+}
 
