@@ -58,8 +58,9 @@
     <enableStreamingApi>true</enableStreamingApi>
     <label>Master</label>
     <nameField>
+        <displayFormat>m-{0}</displayFormat>
         <label>Master Name</label>
-        <type>Text</type>
+        <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Masters</pluralLabel>
     <searchLayouts/>

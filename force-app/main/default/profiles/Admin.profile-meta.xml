@@ -3,7 +3,7 @@
     <applicationVisibilities>
         <application>MasterDetail</application>
         <default>false</default>
-        <visible>false</visible>
+        <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
         <apexClass>AccountBuilder</apexClass>
@@ -63,7 +63,7 @@
     </objectPermissions>
     <tabVisibilities>
         <tab>Master__c</tab>
-        <visibility>Hidden</visibility>
+        <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>

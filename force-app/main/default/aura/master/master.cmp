@@ -13,5 +13,9 @@
     recordUpdated="{!c.disbursementUpdated}"
 />
 
+<lightning:card>
+    
+</lightning:card>
+
 
 </aura:component>	
