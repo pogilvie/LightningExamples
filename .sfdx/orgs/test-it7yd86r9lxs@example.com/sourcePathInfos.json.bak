@@ -2,7 +2,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -17,7 +17,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -32,7 +32,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -47,7 +47,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/applications",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/applications",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -62,7 +62,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/applications/MasterDetail.app-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/applications/MasterDetail.app-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -77,7 +77,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -92,7 +92,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -107,7 +107,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.auradoc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.auradoc",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -122,7 +122,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -137,7 +137,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -152,7 +152,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -167,7 +167,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -182,7 +182,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditForm.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -197,7 +197,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditFormController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditFormController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -212,7 +212,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditFormHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditFormHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -227,7 +227,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditFormRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/RecordEditForm/RecordEditFormRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -242,7 +242,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -257,7 +257,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.auradoc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.auradoc",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -272,7 +272,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -287,7 +287,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -302,7 +302,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -317,7 +317,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -332,7 +332,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/Rollup.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -347,7 +347,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/RollupController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/RollupController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -362,7 +362,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/RollupHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/RollupHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -377,7 +377,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/RollupRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/Rollup/RollupRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -392,7 +392,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -407,7 +407,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/AccountBuilder.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/AccountBuilder.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -422,7 +422,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/AccountBuilder.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/AccountBuilder.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -437,7 +437,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/ContactBuilder.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/ContactBuilder.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -452,7 +452,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/ContactBuilder.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/ContactBuilder.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -467,7 +467,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Factory.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Factory.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -482,7 +482,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Factory.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Factory.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -497,7 +497,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Requirements.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Requirements.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -512,7 +512,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Requirements.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/classes/Requirements.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -527,7 +527,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/flexipages",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/flexipages",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -542,7 +542,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -557,7 +557,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/flexipages/Master_Detail_UtilityBar.flexipage-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/flexipages/Master_Detail_UtilityBar.flexipage-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -572,7 +572,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/flexipages/Master_Record_Page.flexipage-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/flexipages/Master_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -587,7 +587,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/layouts",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/layouts",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -602,7 +602,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/layouts/Detail__c-Detail Layout.layout-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/layouts/Detail__c-Detail Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -617,7 +617,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/layouts/Master__c-Master Layout.layout-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/layouts/Master__c-Master Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -632,7 +632,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -647,7 +647,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Account",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Account",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -662,7 +662,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Account/listViews",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Account/listViews",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -677,7 +677,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Account/listViews/All.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Account/listViews/All.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -692,7 +692,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -707,7 +707,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/Contact.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/Contact.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -722,7 +722,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -737,7 +737,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/AccountId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/AccountId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -752,7 +752,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/AssistantName.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/AssistantName.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -767,7 +767,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/AssistantPhone.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/AssistantPhone.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -782,7 +782,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Birthdate.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Birthdate.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -797,7 +797,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/CanAllowPortalSelfReg.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/CanAllowPortalSelfReg.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -812,7 +812,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Department.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Department.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -827,7 +827,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Description.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Description.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -842,7 +842,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/DoNotCall.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/DoNotCall.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -857,7 +857,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Email.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Email.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -872,7 +872,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Fax.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Fax.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -887,7 +887,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/HasOptedOutOfEmail.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/HasOptedOutOfEmail.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -902,7 +902,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/HasOptedOutOfFax.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/HasOptedOutOfFax.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -917,7 +917,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/HomePhone.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/HomePhone.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -932,7 +932,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Jigsaw.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Jigsaw.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -947,7 +947,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/LastCURequestDate.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/LastCURequestDate.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -962,7 +962,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/LastCUUpdateDate.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/LastCUUpdateDate.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -977,7 +977,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/LeadSource.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/LeadSource.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -992,7 +992,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/MailingAddress.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/MailingAddress.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1007,7 +1007,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/MobilePhone.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/MobilePhone.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1022,7 +1022,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Name.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Name.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1037,7 +1037,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/OtherAddress.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/OtherAddress.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1052,7 +1052,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/OtherPhone.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/OtherPhone.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1067,7 +1067,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/OwnerId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/OwnerId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1082,7 +1082,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Phone.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Phone.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1097,7 +1097,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/ReportsToId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/ReportsToId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1112,7 +1112,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Title.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/fields/Title.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1127,7 +1127,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/listViews",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/listViews",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1142,7 +1142,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/listViews/All.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Contact/listViews/All.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1157,7 +1157,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Detail__c",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Detail__c",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1172,7 +1172,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Detail__c/Detail__c.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Detail__c/Detail__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1187,7 +1187,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Detail__c/fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Detail__c/fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1202,7 +1202,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Detail__c/fields/Master__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Detail__c/fields/Master__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1217,7 +1217,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Detail__c/fields/Value__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Detail__c/fields/Value__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1232,7 +1232,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1247,7 +1247,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/Master__c.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/Master__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1262,7 +1262,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1277,7 +1277,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/fields/Count__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/fields/Count__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1292,7 +1292,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/fields/Sum__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/fields/Sum__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1307,7 +1307,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/listViews",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/listViews",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1322,7 +1322,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/listViews/All.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/objects/Master__c/listViews/All.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1337,7 +1337,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/profiles",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/profiles",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1352,7 +1352,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1367,7 +1367,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/profiles/Trial Customer Portal User.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/profiles/Trial Customer Portal User.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1382,7 +1382,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/settings",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/settings",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1397,7 +1397,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/settings/Security.settings-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/settings/Security.settings-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1412,7 +1412,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/tabs",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/tabs",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1427,7 +1427,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/tabs/Master__c.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/tabs/Master__c.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1442,7 +1442,7 @@
     [
         "/Users/pogilvie/Projects/LightningExamples",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples",
             "isDirectory": true,
             "isMetadataFile": false,
