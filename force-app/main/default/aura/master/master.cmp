@@ -1,3 +1,17 @@
-<aura:component>
+<aura:component
+    implements="flexipage:availableForRecordHome, force:hasRecordId"
+>
+
+<aura:attribute name="master" type="Object"/>
+
+<force:recordData aura:id="masterLoader"
+    recordId="{!v.recordId}"
+    mode="VIEW"
+    fields="['Id', 'Name', 'outfunds__Amount__c']"
+    targetFields="{!v.disbursement}"
+    targetError="{!v.recordError}"
+    recordUpdated="{!c.disbursementUpdated}"
+/>
+
 
 </aura:component>	
