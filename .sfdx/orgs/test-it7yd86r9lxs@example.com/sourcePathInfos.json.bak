@@ -571,14 +571,12 @@
         {
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/flexipages/Master_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 1421,
-            "modifiedTime": 1546444930945,
-            "changeTime": 1546444930945,
-            "contentHash": "f048656915b8c18ae8239ccc89ba5e58b5f4e242",
+            "size": 1530,
+            "modifiedTime": 1547099208217,
+            "changeTime": 1547099208217,
+            "contentHash": "0ca0a7bc792e58325dd390084cb68365f6cde5c6",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -1510,10 +1508,10 @@
             "sourcePath": "/Users/pogilvie/Projects/LightningExamples/force-app/main/default/aura/master/master.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 518,
-            "modifiedTime": 1547099079867,
-            "changeTime": 1547099079867,
-            "contentHash": "d831ca2e554a1c783b9d453eaf894f3e282d925d"
+            "size": 534,
+            "modifiedTime": 1547099316053,
+            "changeTime": 1547099316053,
+            "contentHash": "9704059cac814bac83690e19b48c6920a5da513b"
         }
     ],
     [
