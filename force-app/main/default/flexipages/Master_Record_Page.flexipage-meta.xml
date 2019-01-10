@@ -16,17 +16,14 @@
         <componentInstances>
             <componentName>force:detailPanel</componentName>
         </componentInstances>
+        <componentInstances>
+            <componentName>master</componentName>
+        </componentInstances>
         <mode>Replace</mode>
         <name>main</name>
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <componentInstances>
-            <componentName>Rollup</componentName>
-        </componentInstances>
-        <componentInstances>
-            <componentName>master</componentName>
-        </componentInstances>
         <componentInstances>
             <componentName>force:relatedListContainer</componentName>
         </componentInstances>

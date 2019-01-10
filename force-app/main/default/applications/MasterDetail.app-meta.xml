@@ -10,6 +10,7 @@
     <label>Master/Detail</label>
     <navType>Standard</navType>
     <tabs>Master__c</tabs>
+    <tabs>standard-Account</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Master_Detail_UtilityBar</utilityBar>
 </CustomApplication>

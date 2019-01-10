@@ -8,8 +8,8 @@ test :
 builder :
 	sfdx force:apex:test:run -t Requirements.builder -w $(waittime) -u $(user)
 
-md_setup :
+setup :
 	sfdx force:apex:execute -f ./apex/md_setup.apex -u $(user)
 
-md_cleanup : 
+cleanup : 
 	sfdx force:apex:execute -f ./apex/md_cleanup.apex -u $(user)

@@ -1,19 +1,20 @@
 public with sharing class Factory {
     
-    public static Id createMaster(String name) {
+    public static Id createMaster(Decimal value) {
 
         Master__c m = new Master__c(
-            Name = name
+            Master_Value__c = value
         );
         insert m;
 
         return m.Id;
     }
 
-    public static Id createDetail(Id masterId, Integer value) {
+    public static Id createDetail(Id masterId, Id accountId, Integer value) {
 
         Detail__c d = new Detail__c(
             Master__c = masterId,
+            Account__c = accountId,
             Value__c = value
         );
         insert d;
@@ -43,18 +44,13 @@ public with sharing class Factory {
 
     public static void setup() {
 
-        Id masterId = createMaster('m');
+        Id masterId = createMaster(10);
 
-        for (Integer i = 0; i < 10; i++) {
-            createDetail(masterId, i);
-        }
+        createDetail(masterId, createAccount('apple'), 10);
+        createDetail(masterId, createAccount('pear'), 20);
 
-        /* create three Accounts and an unlinked Contact
-        */
-        createAccount('apple');
-        createAccount('pear');
         createAccount('orange');
-
+        
         createContact('John', 'Doe');
 
     }

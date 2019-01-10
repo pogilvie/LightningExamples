@@ -13,9 +13,21 @@
     recordUpdated="{!c.masterUpdated}"
 />
 
-<lightning:card class="slds-p-horizontal_medium">
-    
-    Name: {!v.master.Name} Master Value: {!v.master.Master_Value__c}
+<lightning:card class="slds-p-horizontal_medium slds-p-bottom_medium">
+
+    <div class="slds-grid slds-gutters">
+
+        <div class="slds-col slds-size_2-of-3">
+        </div>
+        <div style="float:right;" class="slds-col slds-size_1-of-3">
+            <lightning:button iconName="utility:add" label="Add"/>
+            <lightning:button label="Cancel"/>
+            <lightning:button variant="brand" label="Save"/>
+        </div>
+    </div>
+    <div>
+        Name: {!v.master.Name} Master Value: {!v.master.Master_Value__c}
+    </div>
 
 </lightning:card>
 
