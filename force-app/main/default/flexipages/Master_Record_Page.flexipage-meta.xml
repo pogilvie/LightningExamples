@@ -25,6 +25,9 @@
             <componentName>Rollup</componentName>
         </componentInstances>
         <componentInstances>
+            <componentName>master</componentName>
+        </componentInstances>
+        <componentInstances>
             <componentName>force:relatedListContainer</componentName>
         </componentInstances>
         <mode>Replace</mode>

@@ -7,14 +7,16 @@
 <force:recordData aura:id="masterLoader"
     recordId="{!v.recordId}"
     mode="VIEW"
-    fields="['Id', 'Name', 'outfunds__Amount__c']"
-    targetFields="{!v.disbursement}"
+    fields="['Id', 'Name', 'Master_Value__c']"
+    targetFields="{!v.master}"
     targetError="{!v.recordError}"
-    recordUpdated="{!c.disbursementUpdated}"
+    recordUpdated="{!c.masterUpdated}"
 />
 
-<lightning:card>
+<lightning:card class="slds-p-horizontal_medium">
     
+    Master Value: {!v.master.Master_Value__c}
+
 </lightning:card>
 
 
