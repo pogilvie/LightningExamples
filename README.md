@@ -23,3 +23,6 @@
 - Class ContactBuilder.cls
 - Requirements.builder (sfdx force:apex:test:run -t Requirements.builder -w 10 -u lex)
 
+## Arrays and Parent Child components
+- The parent creats an array element for each child
+- what happends when the child updates its element?
