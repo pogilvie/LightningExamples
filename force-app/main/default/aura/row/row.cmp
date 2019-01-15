@@ -1,3 +1,75 @@
-<aura:component>
+<aura:component implements="force:hasRecordId">
+
+<!-- Input -->
+<aura:attribute name="rowMasterId"      type="Id"/>
+<aura:attribute name="rowId"            type="String"/>
+
+<aura:attribute name="master"           type="Object"/>
+<aura:attribute name="masterError"      type="String"/>
+
+<aura:attribute name="accountId"        type="String"/>
+
+<aura:attribute name="row"              type="Object"/>
+<aura:attribute name="rowError"      type="String"/>
+
+<force:recordData aura:id="masterLoader"
+    recordId="{!v.rowMasterId}"
+    mode="VIEW"
+    fields="['Id', 'Name', 'Master_Value__c']"
+    targetFields="{!v.master}"
+    targetError="{!v.masterError}"
+    recordUpdated="{!c.masterUpdated}"
+/>
+
+<force:recordData aura:id="rowLoader"
+    recordId="{!v.rowId}"
+    mode="VIEW"
+    fields="['Id', 'Name', 'Value__c']"
+    targetFields="{!v.row}"
+    targetError="{!v.rowError}"
+    recordUpdated="{!c.rowUpdated}"
+/>
+
+
+<div class="slds-m-vertical_medium">
+
+    <div class="slds-text-color_erro">
+        {!v.masterError}
+        {!v.rowError}
+    </div>
+
+    <p>row MasterId: {!v.rowMasterId}</p>
+    <p>row Master Record Name: {!v.master.Name}</p>
+    <p>row Master Value: {!v.master.Master_Value__c}</p>
+    <p>row Name: {!v.row.Name}</p>
+    <p>row Value: {!v.row.Value__c}</p>
+    <p>Id: {!v.rowId}</p>
+
+    <lightning:recordEditForm
+                onload="{!c.handleLoad}"
+                onsubmit="{!c.handleSubmit}"
+                onsuccess="{!c.handleSuccess}"
+                objectApiName="Detail__c"
+                aura:id="rowForm"
+    >
+        <div class="slds-grid slds-gutters">
+            <div class="slds-col">
+                <lightning:inputField fieldName="Account__c" onchange="{!c.accountIdUpdated}"/>
+            </div>
+            <lightning:recordViewForm 
+                recordId="{!v.accountId}"
+                objectApiName="Account"
+            >
+                <!-- recordxxxxForm cannnot be nested 
+                <lightning:outputField fieldName="Name"/>-->
+            </lightning:recordViewForm>
+            <div class="slds-col">
+                <lightning:inputField fieldName="Value__c"/>
+            </div>
+
+        </div>
+    </lightning:recordEditForm> 
+
+</div>
 
 </aura:component>	

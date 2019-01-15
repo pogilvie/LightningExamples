@@ -13,3 +13,6 @@ setup :
 
 cleanup : 
 	sfdx force:apex:execute -f ./apex/md_cleanup.apex -u $(user)
+
+listComponents :
+	sfdx force:data:soql:query -q 'select Id, DeveloperName from AuraDefinitionBundle' -u $(user)

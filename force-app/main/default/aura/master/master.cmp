@@ -1,8 +1,11 @@
 <aura:component
+    controller="MasterController"
     implements="flexipage:availableForRecordHome, force:hasRecordId"
 >
 
 <aura:attribute name="master" type="Object"/>
+<aura:attribute name="rows" type="Object[]"/>
+
 
 <force:recordData aura:id="masterLoader"
     recordId="{!v.recordId}"
@@ -21,12 +24,39 @@
         </div>
         <div style="float:right;" class="slds-col slds-size_1-of-3">
             <lightning:button iconName="utility:add" label="Add"/>
-            <lightning:button label="Cancel"/>
-            <lightning:button variant="brand" label="Save"/>
         </div>
     </div>
     <div>
         Name: {!v.master.Name} Master Value: {!v.master.Master_Value__c}
+        <aura:iteration items="{!v.rows}" var="r" indexVar="i">
+
+            <c.row
+                rowMasterId="{!v.recordId}"
+                rowId="{!r.Id}"
+            />
+
+        </aura:iteration>
+
+        <div class="slds-m-vertical_medium">
+            <p>Create a record</p>
+            <lightning:recordEditForm
+                onload="{!c.handleLoad}"
+                onsubmit="{!c.handleSubmit}"
+                onsuccess="{!c.handleSuccess}"
+                objectApiName="Detail__c"
+                aura:id="rowForm"
+            >   
+                <lightning:messages />
+
+                <lightning:inputField fieldName="Account__c"/>
+                <lightning:inputField fieldName="Value__c"/>
+
+                <div class="slds-m-top_medium">
+                    <lightning:button variant="brand" type="submit" name="save" label="Save" />
+                </div>
+            </lightning:recordEditForm>
+        </div>
+
     </div>
 
 </lightning:card>

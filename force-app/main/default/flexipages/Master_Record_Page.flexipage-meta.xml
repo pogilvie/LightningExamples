@@ -14,10 +14,10 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
-            <componentName>force:detailPanel</componentName>
+            <componentName>master</componentName>
         </componentInstances>
         <componentInstances>
-            <componentName>master</componentName>
+            <componentName>force:detailPanel</componentName>
         </componentInstances>
         <mode>Replace</mode>
         <name>main</name>
