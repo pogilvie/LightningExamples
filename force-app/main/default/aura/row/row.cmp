@@ -8,6 +8,7 @@
 <aura:attribute name="masterError"      type="String"/>
 
 <aura:attribute name="accountId"        type="String"/>
+<aura:attribute name="accountError"     type="String"/>
 
 <aura:attribute name="row"              type="Object"/>
 <aura:attribute name="rowError"      type="String"/>
@@ -30,12 +31,21 @@
     recordUpdated="{!c.rowUpdated}"
 />
 
+<force:recordData aura:id="accountLoader"
+    recordId="{!v.accountId}"
+    mode="VIEW"
+    fields="['Id, 'Name', 'Account_Value__c']"
+    targetFields="{!v.account}"
+    targetError="{!v.accountError}"
+    recordUpdated="{!c.accountUpdated}"
+/>
 
 <div class="slds-m-vertical_medium">
 
     <div class="slds-text-color_erro">
         {!v.masterError}
         {!v.rowError}
+        {!v.accountError}
     </div>
 
     <p>row MasterId: {!v.rowMasterId}</p>
@@ -55,14 +65,9 @@
         <div class="slds-grid slds-gutters">
             <div class="slds-col">
                 <lightning:inputField fieldName="Account__c" onchange="{!c.accountIdUpdated}"/>
+                <p>Account Id: {!v.accountId}</p>
+                <p>Account Name: {!v.account.Name}</p>
             </div>
-            <lightning:recordViewForm 
-                recordId="{!v.accountId}"
-                objectApiName="Account"
-            >
-                <!-- recordxxxxForm cannnot be nested 
-                <lightning:outputField fieldName="Name"/>-->
-            </lightning:recordViewForm>
             <div class="slds-col">
                 <lightning:inputField fieldName="Value__c"/>
             </div>

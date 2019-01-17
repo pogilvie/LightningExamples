@@ -27,9 +27,19 @@
         console.log(JSON.stringify(event.getParams()));
     },
     accountIdUpdated : function(cmp, event) {
-        console.log('accountIdUpdated called');
+        console.log('accountIdUpdated called text updated');
         console.log(JSON.stringify(event.getParams()));
-        cmp.set('v.accountId', event.getParams().value);
+        try {
+            cmp.set('v.accountId', event.getParams().value[0]);
+            cmp.find('accountLoader').reloadRecord();
+            console.log('ACCOUNT RELOADED');
+        } catch (error) {
+            console.log(error);
+        }
+    },
+    accountUpdated : function(cmp, event) {
+        console.log('ACCOUNT UPDATED');
+        console.log(JSON.stringify(event.getParams().value));
     }
 
 })
