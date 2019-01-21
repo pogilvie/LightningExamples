@@ -22,24 +22,41 @@
         console.log('masterUpdated called');
         console.log(JSON.stringify(event.getParams()));
     },
-    rowUpdated : function(emp, event) {
+    rowUpdated : function(cmp, event) {
         console.log('rowUpdated called');
         console.log(JSON.stringify(event.getParams()));
     },
     accountIdUpdated : function(cmp, event) {
         console.log('accountIdUpdated called text updated');
-        console.log(JSON.stringify(event.getParams()));
-        try {
-            cmp.set('v.accountId', event.getParams().value[0]);
-            cmp.find('accountLoader').reloadRecord();
-            console.log('ACCOUNT RELOADED');
-        } catch (error) {
-            console.log(error);
-        }
+        
+        const
+            accountId = event.getParams().value[0],
+            action = cmp.get('c.getAccount');
+        
+        console.log('accountId: ', accountId);
+
+        cmp.set('v.accountId', accountId);
+        action.setParams({accountId: accountId});
+
+        action.setCallback(this, function(r) {
+
+            if (r.getState()) {
+                console.log(r.getReturnValue());
+                cmp.set('v.accountFields', r.getReturnValue());
+            } else {
+                console.log(r.getError());
+            }
+
+        });
+        $A.enqueueAction(action);
+
     },
     accountUpdated : function(cmp, event) {
         console.log('ACCOUNT UPDATED');
         console.log(JSON.stringify(event.getParams().value));
+    },
+    rowValueUpdated : function(cmp, event) {
+        console.log('Row Value Updated:', event.getParams().value);
     }
 
 })

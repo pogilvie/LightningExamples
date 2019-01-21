@@ -4,6 +4,7 @@
 >
 
 <aura:attribute name="master" type="Object"/>
+<aura:attribute name="masterError" type="String"/>
 <aura:attribute name="rows" type="Object[]"/>
 
 
@@ -12,11 +13,15 @@
     mode="VIEW"
     fields="['Id', 'Name', 'Master_Value__c']"
     targetFields="{!v.master}"
-    targetError="{!v.recordError}"
+    targetError="{!v.masterError}"
     recordUpdated="{!c.masterUpdated}"
 />
 
 <lightning:card class="slds-p-horizontal_medium slds-p-bottom_medium">
+
+        <div class="slds-text-color_erro">
+            {!v.masterError}
+        </div>
 
     <div class="slds-grid slds-gutters">
 

@@ -1,4 +1,7 @@
-<aura:component implements="force:hasRecordId">
+<aura:component
+    controller="RowController"
+    implements="force:hasRecordId"
+>
 
 <!-- Input -->
 <aura:attribute name="rowMasterId"      type="Id"/>
@@ -7,11 +10,17 @@
 <aura:attribute name="master"           type="Object"/>
 <aura:attribute name="masterError"      type="String"/>
 
+<!-- local variables -->
+<aura:attribute name="accountFields"    type="Object"/>
 <aura:attribute name="accountId"        type="String"/>
 <aura:attribute name="accountError"     type="String"/>
 
 <aura:attribute name="row"              type="Object"/>
-<aura:attribute name="rowError"      type="String"/>
+<aura:attribute name="rowError"         type="String"/>
+
+
+<aura:attribute name="saveDisabled"      type="Boolean" default="true"/>
+<aura:attribute name="deleteDisabled"    type="Boolean" default="true"/>
 
 <force:recordData aura:id="masterLoader"
     recordId="{!v.rowMasterId}"
@@ -31,14 +40,14 @@
     recordUpdated="{!c.rowUpdated}"
 />
 
-<force:recordData aura:id="accountLoader"
-    recordId="{!v.accountId}"
+<!-- <force:recordData aura:id="accountLoader"
+    recordId="001L00000174kWlIAI"
     mode="VIEW"
-    fields="['Id, 'Name', 'Account_Value__c']"
-    targetFields="{!v.account}"
+    fields="['Id, 'Name']"
+    targetFields="{!v.accountFields}"
     targetError="{!v.accountError}"
     recordUpdated="{!c.accountUpdated}"
-/>
+/> -->
 
 <div class="slds-m-vertical_medium">
 
@@ -65,11 +74,19 @@
         <div class="slds-grid slds-gutters">
             <div class="slds-col">
                 <lightning:inputField fieldName="Account__c" onchange="{!c.accountIdUpdated}"/>
-                <p>Account Id: {!v.accountId}</p>
-                <p>Account Name: {!v.account.Name}</p>
             </div>
             <div class="slds-col">
-                <lightning:inputField fieldName="Value__c"/>
+                    <p class="slds-text-title slds-m-top_x-small">Account Value</p>
+                    <div class="slds-m-top-medium">{!v.accountFields.Account_Value__c}</div>
+            </div>
+            <div class="slds-col">
+                <lightning:inputField fieldName="Value__c" onchange="{!c.rowValueUpdated}"/>
+            </div>
+            <div class="slds-col slds-m-top_large">
+                <lightning:button disabled="{!v.saveDisabled}" variant="brand" type="submit" name="save" label="Save" />
+            </div>
+            <div class="slds-col slds-m-top_large">
+                <lightning:buttonIcon disabled="{!v.deleteDisabled}" iconName="utility:delete"  variant="destructive"  name="delete"/>
             </div>
 
         </div>
